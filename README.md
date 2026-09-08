@@ -381,7 +381,7 @@ curl "http://127.0.0.1:8000/facts?predicate=revenue_from_services"
 # Filter corroborated comparisons
 curl "http://127.0.0.1:8000/comparisons?relationship=CORROBORATED"
 ```
-
+Video url : https://drive.google.com/file/d/1rbrNbHvjCHhB8-pi_wp75RRLouTQvwSv/view?usp=drive_link
 ---
 
 
